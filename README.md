@@ -1,2 +1,2 @@
-# superfluid-dark-matter-cosmo
+# Superfluid Dark Matter Cosmology
 Work in progress!
